@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/locManage/locMan/locManView",
+    "pages/locManage/addLoc/addLocView",
+    "pages/category/categoryView",
+    "pages/saleArea/saleArea",
+    "pages/discountCoupon/couponCenter/couponCenter",
+    "pages/discountCoupon/couponMan/couponMan",
+    "pages/search/search"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "RGB(232, 133, 34)",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
